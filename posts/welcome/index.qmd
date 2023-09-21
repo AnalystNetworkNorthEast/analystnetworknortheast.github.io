@@ -1,0 +1,14 @@
+---
+title: "Hello world!"
+author: "Hollie Johnson"
+date: "2023-09-18"
+categories: [news]
+draft: false
+image: thumbnail.jpeg
+---
+
+Hello from the brand new Analyst Network North East blog. Welcome!
+
+
+
+Find out more about us on our [About page](../../about.qmd)

@@ -1,0 +1,15 @@
+---
+title: "Analyst Network North East"
+subtitle: "Analyst Network North East (ANNE) is a network where analysts from the academic, public & private sector can connect & exchange ideas on analysis (quantitative and qualitative)."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+
