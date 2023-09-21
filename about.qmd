@@ -6,6 +6,7 @@ about:
   
 
 ---
+# About 
 
 Our network is for anyone with an interest in quantitative & qualitative analysis happening in North East England. Members include: Business and Financial Analysts, Statisticians, Data Scientists, Modelling Analysts, Economists, STEM students, Operational and Social Researchers.
 
