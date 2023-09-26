@@ -4,7 +4,7 @@
 ##  Running instructions   
 
 To build the site, run:
-```quarto render```
+```quarto preview```
 
 To publish changes, run:
 ```quarto publish gh-pages```
