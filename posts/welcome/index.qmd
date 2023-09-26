@@ -7,7 +7,7 @@ draft: false
 image: thumbnail.jpeg
 ---
 
-Hello from the brand new Analyst Network North East blog. Welcome!
+Hello from the brand new **Analyst Network North East** blog. Welcome!
 
 
 
