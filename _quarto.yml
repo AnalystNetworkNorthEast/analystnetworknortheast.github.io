@@ -7,15 +7,21 @@ website:
     right:
       - index.qmd
       - about.qmd
+      - mentoring.qmd
       - icon: linkedin
         href: https://www.linkedin.com/company/analyst-network-north-east/about/
       - icon: twitter
         href: https://twitter.com/AnalystNetNE
+  sidebar:
+    contents: auto
+    search: true
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
+    toc: true
+    toc-depth: 2
 execute:
   freeze: auto
 

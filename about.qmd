@@ -11,10 +11,11 @@ about:
 Our network is for anyone with an interest in quantitative & qualitative analysis happening in North East England. Members include: Business and Financial Analysts, Statisticians, Data Scientists, Modelling Analysts, Economists, STEM students, Operational and Social Researchers.
 
 ## ANNE Events
-We hold three events each year, held at locations in the North East of England. Events are free to attend and a CPD opportunity. 
+We hold three events each year, held at locations in the North East of England. Events are free to attend and a CPD opportunity. Events are promoted through our social media channels.
+
 
 ## ANNE Mentoring
-We facilitate the matching of people who want to learn from each other through our mentoring scheme.
+We facilitate the matching of people who want to learn from each other through our mentoring scheme. For more info, take a look at our [mentoring information](mentoring.qmd).
 
 ## ANNE Education
 Through our outreach work, we promote the study of STEM subjects to encourage people to pursue STEM careers.
