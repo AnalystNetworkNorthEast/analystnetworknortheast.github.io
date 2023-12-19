@@ -1,0 +1,24 @@
+---
+title: "ANNEcdotes #1 – Hollie Johnson"
+author: "Elliott White"
+date: "2023-12-19"
+categories: [ANNEcdotes, careers]
+draft: false
+---
+Our very first ANNEcdote is with Hollie Johnson, data scientist at Newcastle University’s National Innovation Centre for Data, and in her spare time, committee member for our Analyst Network North East. 
+
+On a typical autumnal November afternoon, Elliott White (ANNE secretary and deputy chair) jumped onto a Google Meets call with Hollie, to talk about her path from maths enthusiast to data scientist, what she now gets up to during her day to day, and what advice she would offer people interested in pursuing a similar role. On we go…
+Starting at the start, Hollie's passion for maths sparked whilst learning maths at school. “I have enjoyed maths for as long as I can remember”. In particular, Hollie leaned in on some of her learning at school, and how she had an “unusually” great time learning about the Fibonacci Sequence.” From there, she progressed onto a maths degree at Newcastle University where she graduated with a BSc. But it was whilst studying at University that Hollie’s “wiggly” career path kicked into action, from her interests in power lifting and circus training.
+
+“After graduating I didn’t really know what I wanted to do. I dabbled with a few roles. I worked as a Support tutor. This is where I got to go to lectures with other students from different subjects, and help them take notes. This was great because I got to attend a whole bunch of civil engineering lectures that I would never have got to attend otherwise. Then this opportunity came up to join the Commonwealth youth circus, which was part of the Glasgow Commonwealth Games. We spent about eight months training and developing a circus show. And then we toured around Scotland with the Queen's baton relay. I had a fantastic time doing that.”
+
+Following the Commonwealth games, Hollie returned to her passion for maths. She got stuck into a masters in computer science, whilst working part-time for a software development company. This then progressed into a PhD programme, which she completed as part of Newcastle University’s Centre for Doctoral Training on cloud computing, where she completed her PhD in 2020.
+Following a stint working with Tombola on its back-end gaming engine. Hollie moved into her current data science role at the National Innovation Centre for Data in 2021. “I’d seen what the National Innovation Centre for Data we're doing and I felt like that was a direction I wanted to go and pursue, and do data science with businesses.”
+In her role at NICD, Hollie has got the opportunity to use her technical and non-technical skills. Typically Hollie will be working on three or four different projects at a time, with different businesses across the North East and the UK.
+
+Hollie blends her skills in programming and data science, with teaching and coaching skills to help upskill people operating with the businesses she is partnering with.
+Her involvement in a project with a company managing second-life battery and energy storage systems served as a noteworthy experience. "It was a real business problem they wanted to understand," she recalls. "We helped the team in the real-time application of their data analysis, guiding them through the subtleties of decision-making in the process." More recently, Hollie has been working on a collaborative project with a business, to develop a dashboard, and collaborating on its development and use with the client via the cloud, using docker. 
+
+Towards the end of our conversation, we discussed what advice Hollie might offer to others, seeking a career in data science. “Data science doesn't need more people who have done tech all their life. Being the most technical person in the room will only get you so far. Especially in a world of generative AI. Data science needs more people with a wide range of experiences which can be leveraged to think critically and creatively to solve problems. I think data science could be a role for anyone who wants to get into those sorts of problem solving roles. More broadly, don't be afraid to ask difficult questions. Often, the most value I can provide as a data scientist is through being able to ask challenging questions and getting people to think about the answers."
+
+![Photo: John Donoghue for NICD](hollie_johnson_007.webp){width="50%" fig-align="left"}
