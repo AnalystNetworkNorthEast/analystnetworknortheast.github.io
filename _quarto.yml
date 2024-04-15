@@ -14,7 +14,6 @@ website:
         href: https://twitter.com/AnalystNetNE
   sidebar:
     contents: auto
-    search: true
 
 format:
   html:
