@@ -21,4 +21,4 @@ Her involvement in a project with a company managing second-life battery and ene
 
 Towards the end of our conversation, we discussed what advice Hollie might offer to others, seeking a career in data science. “Data science doesn't need more people who have done tech all their life. Being the most technical person in the room will only get you so far. Especially in a world of generative AI. Data science needs more people with a wide range of experiences which can be leveraged to think critically and creatively to solve problems. I think data science could be a role for anyone who wants to get into those sorts of problem solving roles. More broadly, don't be afraid to ask difficult questions. Often, the most value I can provide as a data scientist is through being able to ask challenging questions and getting people to think about the answers."
 
-![Photo: John Donoghue for NICD](hollie_johnson_007.webp){width="50%" fig-align="left"}
+![Photo: John Donoghue for NICD](hollie_johnson_007.webp){width="50%" fig-align="center"}
